@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../sample_laravel"
+		},
+		{
+			"path": "../../../../../ajaxjs_app"
+		},
+		{
+			"path": "../../../.."
+		}
+	],
+	"settings": {}
+}

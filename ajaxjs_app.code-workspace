@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../ajaxjs_app"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../dental_apps"
+		}
+	],
+	"settings": {}
+}

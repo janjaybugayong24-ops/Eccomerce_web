@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../dental_apps"
+		},
+		{
+			"path": "../../../laravel-auth-starter-project"
+		}
+	],
+	"settings": {}
+}

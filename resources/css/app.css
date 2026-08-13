@@ -1,0 +1,100 @@
+#img-login{
+  width: 250px;
+}
+
+
+.box-area{
+    width:930px;
+}
+
+.left-box{
+  background: #103cbe;
+}
+.p-tag{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 600;
+}
+.s-tag{
+  width: 17rem;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+::placeholder{
+  font-size: 16px;
+}
+
+.checkout-form label{
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.checkout-form input{
+font-size: 14px;
+padding: 5px;
+font-weight: 400;
+}
+
+
+.rating-css div{
+  color: #ffe400;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 800;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 20px 0;
+}
+.rating-css input {
+  display: none;
+}
+
+.rating-css input + label
+ {
+  font-size: 30px;
+  text-shadow: 1px 1px 0 #8f8420;
+  cursor: pointer;
+ }
+
+ .rating-css input:checked + label ~ label {
+  color: #b4afaf;
+ }
+
+ .rating-css label:active{
+  transform: scale(0.8);
+  transition: 0.3s ease;
+ }
+
+ .checked{
+  color:#eeff00;
+ }
+
+ .search-bar{
+    width: 40%;
+    margin-left: 5%;
+ }
+
+
+
+@media only screen and (max-width: 768px) {
+  .box-area{
+    margin: 0 10px;
+  }
+  .left-box{
+    height: 100px;
+    overflow: hidden;
+  }
+
+   .right-box{
+   padding: 20px;
+  }
+
+  .search-bar{
+    width: 60%;
+    margin-left: 5%;
+  }
+}
+
+.order-details label{
+   font-size: 14px;
+   padding: 5px !important;
+}
